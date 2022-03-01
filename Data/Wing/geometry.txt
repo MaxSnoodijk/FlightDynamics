@@ -1,0 +1,8 @@
+chord_root	0.20	m
+span		1.20	m
+sweep		5.00	deg
+taper		0.50	deg
+dihedral	5.00	deg
+ac		0.25	percentage
+le		-0.05	m
+downwash	-0.01	per deg

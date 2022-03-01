@@ -1,0 +1,22 @@
+# geometry #
+
+chord_root	0.200	m
+span		0.600	m
+sweep		5.000	deg
+taper		0.500	deg
+dihedral	5.000	deg
+
+# positioning (in body reference frame!) #
+
+X_le	        0.040	m
+Y_le		0.000	m
+Z_le		0.000	m
+
+# aerodynamics #
+
+C_M_X_ac	0.000	-
+C_M_Y_ac	0.056	-
+C_M_Z_ac	0.000	-
+
+ac		0.250	percentage
+downwash	0.000	1/deg
