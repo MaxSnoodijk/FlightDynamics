@@ -1,7 +1,7 @@
 import unittest
 import numpy as np
 
-from coefficients import Coefficients
+from coefficients import *
 
 
 class TestCoefficients(unittest.TestCase):
