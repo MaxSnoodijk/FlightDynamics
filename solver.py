@@ -1,6 +1,6 @@
 import numpy as np
 
-from aircraft import Aircraft
+from coefficients import Coefficients
 
 
 class Solver:

@@ -1,10 +1,10 @@
 import unittest
 import numpy as np
 
-from aircraft import Aircraft
+from coefficients import Coefficients
 
 
-class TestAircraft(unittest.TestCase):
+class TestCoefficients(unittest.TestCase):
     pass
 
 
